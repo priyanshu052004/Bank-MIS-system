@@ -1,0 +1,70 @@
+html{
+    background-image: url(../assets/img/backgroud.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mainContainer{
+    border: solid 2px;
+    border-radius: 100px;
+    background-color: rgba(238, 239, 241, 0.479);
+    text-align: center;
+    margin: 200px;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.mainContainer> a > button{
+    padding: 25px;
+    font-size: large;
+    border-radius: 50px;
+    margin-left: 50px;
+}
+
+.mainContainer > a > button:hover{
+    background-color: rgb(255, 223, 229);
+
+}
+
+.listitem{
+    text-align: left;
+    margin-left: 100px;
+    font-size: 18px
+
+}
+.formitem{
+    text-align: left;
+    margin-left: 100px;
+
+}
+
+.formitem> form >label{
+    margin-right: 20px;
+}
+.formitem> form >input{
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgba(255, 223, 229, 0.826);
+
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+#submit{
+    text-align: center;
+    background-color: white;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 250px;
+
+}
+
+#submit:hover{
+    background-color: rgb(255, 223, 229);
+}
+

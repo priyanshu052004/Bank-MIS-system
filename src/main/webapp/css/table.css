@@ -1,0 +1,12 @@
+@charset "UTF-8";
+table, td, th{
+    border: 2px solid rgb(243, 236, 236) !important;;
+    padding: 10px !important;
+    text-align: center !important;
+    margin-left: 250px !important;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+    background-color: rgb(220, 159, 102) !important;
+    color: rgb(17, 9, 9) !important;;
+
+}
